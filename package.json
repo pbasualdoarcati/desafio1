@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "sass": "^1.49.8"
+  },
+  "name": "desafio1",
+  "version": "1.0.0",
+  "description": "Primer desafio de Coder House - Curso de javascript",
+  "main": "PrimerDesafio.js",
+  "autor": "Pablo Basualdo Arcati",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-compile": "sass styles/sass/:styles/css/",
+    "sass-watch": "sass --watch styles/sass:styles/css"
+  },
+  "author": "",
+  "license": "ISC"
+}
